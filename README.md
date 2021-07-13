@@ -193,6 +193,7 @@ Scene Streaming 依赖于 Texture/Audio/Mesh Streaming，请务必先执行前�
 ## 13. 提交字节小游戏平台并测试
 
 * 游戏上传完成后，打开字节发布页面，填写发布信息，选择游戏工程根目录下的IGOutput/ig_bytedance.json后点击发布按钮，生成二维码后，使用抖音或头条App扫码即可自测试。
+* 从[StarkSDK_Unity文档](https://bytedance.feishu.cn/docs/doccnUBXqLK4YoSj6cj1tDx5Qeb)网页下载字节SDK插件,该插件包含了SDK
 ![](Ig_doc_pic/publis_to_bytedance.png)
 ![](Ig_doc_pic/json.png)
 
