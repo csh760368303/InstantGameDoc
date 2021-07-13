@@ -194,6 +194,8 @@ Scene Streaming 依赖于 Texture/Audio/Mesh Streaming，请务必先执行前�
 
 * 从[StarkSDK_Unity文档](https://bytedance.feishu.cn/docs/doccnUBXqLK4YoSj6cj1tDx5Qeb)网页下载字节SDK插件，该插件包含了SDK和发布页面。
 * 下载安装插件完成后MenuBar会出现ByteGame菜单，下拉选择ByteGame Develop Tools，分别将三个工具安装升级到最新版本,即可使用相应的SDK接口使用方法附在[StarkSDK Unity文档]中。
+![](Ig_doc_pic/SdkToolsUpdate.png)
+
 * 游戏上传完成后，打开字节发布页面，填写发布信息，选择游戏工程根目录下的IGOutput/ig_bytedance.json后点击发布按钮，生成二维码后，使用抖音或头条App扫码即可自测试。
 
 ![](Ig_doc_pic/publis_to_bytedance.png)
